@@ -1,0 +1,115 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body{
+    padding: 0px 135px 0px 135px;
+    font-family: sans-serif;
+}
+
+.heading{
+    text-decoration: none;
+    font-size: 22.5px;
+    font-weight:350;
+    color: #44f; 
+    border: none solid #ccc;
+    display: inline-block;
+    padding: 0px 8px 0px 0px;
+    margin: 0px 8px 0px 0px;
+}
+
+.headstart{
+    text-decoration: none;
+    font-size: 22.5px;
+    font-weight: 350;
+}
+.list{
+    color: #44f;
+    text-decoration: none;
+}
+li{
+    padding: 6px 0px 0px 6px;
+}
+
+.lii{
+    padding: 15px 0px 0px 0px;
+}
+.l{
+    color: #ccc;
+    font-size: 19px;
+}
+.headstarts{
+    font-size: 30px;
+    font-weight: 350;
+}
+span{
+    color: #ccc;
+}
+
+.headed{
+    font-size: 25px;
+}
+.headd{
+    font-size: 19.5px;
+}
+
+.box{
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    padding: 2px 3px 2px 3px;
+}
+
+.php{
+    background: #f5f2f0;
+    padding:3px;
+    border-radius: 2px;
+}
+
+.php p{
+    position: relative;left: 10px;
+}
+ .text1{
+    background-color: #ddddff;
+    padding: 3px 0px 3px 0px;  
+    margin-left: 20px;
+    border-radius: 2px;
+ }
+
+ .text1 p{
+    position: relative; left: 10px;
+ }
+ .end{
+    font-size: 10px;
+    text-align: center;
+ }
+
+ .center{
+    text-align: center;
+ }
+ .search{
+    display: flex;
+    justify-content: space-between;
+ }
+ button{
+    padding: 2px 40px;
+    border-radius: 20px;
+ }
+
+ img{
+    width: 20px;
+    height: 20px;
+    position: relative; right: 30px;
+    position: relative; top: 2px;
+ }
+
+ .final{
+    position: relative; right: 27px; bottom: 4px;
+ }
+ .bot{
+    text-decoration: #44f;
+ }
+ .bot:hover{
+    color: blue;
+ }
